@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function findMinLengthOfThreeWords must exist",
+      "status": "passed"
+    },
+    {
+      "title": "The function should return the element with less characters.",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Your function must return someting",
+      "status": "passed"
+    },
+    {
+      "title": "returns the value of the property at the given key.",
+      "status": "passed"
+    },
+    {
+      "title": "If there is no property at the given key, it should return undefined.",
+      "status": "passed"
+    },
+    {
+      "title": "Don't return the key itself, but the value of the given key inside the object",
+      "status": "passed"
+    }
+  ]
+}

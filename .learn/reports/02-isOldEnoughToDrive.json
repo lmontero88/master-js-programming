@@ -1,0 +1,33 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 5,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function isOldEnoughToDrive must exist",
+      "status": "passed"
+    },
+    {
+      "title": "Function isOldEnoughToDrive must return true or false",
+      "status": "passed"
+    },
+    {
+      "title": "Function isOldEnoughToDrive must return a boolean",
+      "status": "passed"
+    },
+    {
+      "title": "should return that 16 is old enough to drive",
+      "status": "passed"
+    },
+    {
+      "title": "should return that 15 isn't old enough to drive",
+      "status": "passed"
+    }
+  ]
+}

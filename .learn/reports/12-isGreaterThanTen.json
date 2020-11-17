@@ -1,0 +1,17 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 1,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "function should return whether it is greater than 10.",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 5,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function isOldEnoughToDrink must exist",
+      "status": "passed"
+    },
+    {
+      "title": "Function isOldEnoughToDrink must return true or false",
+      "status": "passed"
+    },
+    {
+      "title": "Function isOldEnoughToDrink must return a boolean",
+      "status": "passed"
+    },
+    {
+      "title": "That 21 years is old enough",
+      "status": "passed"
+    },
+    {
+      "title": "That 19 years is not old enough",
+      "status": "passed"
+    }
+  ]
+}

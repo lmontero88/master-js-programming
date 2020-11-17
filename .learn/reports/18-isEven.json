@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function isEven must exist",
+      "status": "passed"
+    },
+    {
+      "title": "Function isEven must return true or false",
+      "status": "passed"
+    },
+    {
+      "title": "function should return whether the number given is even.",
+      "status": "passed"
+    }
+  ]
+}

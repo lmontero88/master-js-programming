@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function isEqualTo must exist",
+      "status": "passed"
+    },
+    {
+      "title": "Function isEqualTo must return true or false",
+      "status": "passed"
+    },
+    {
+      "title": "function should return that num2 should not be equal to num1",
+      "status": "passed"
+    },
+    {
+      "title": "Use three equals === to compare because we need exact match",
+      "status": "passed"
+    }
+  ]
+}

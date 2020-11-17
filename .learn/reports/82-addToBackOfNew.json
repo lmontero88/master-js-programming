@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function addToBackOfNew must exist",
+      "status": "passed"
+    },
+    {
+      "title": "The given object should be the same as the returned array by the function.",
+      "status": "passed"
+    },
+    {
+      "title": "The returned array should have one more item than the original one .",
+      "status": "passed"
+    },
+    {
+      "title": "The returned array should have the number 3 as the first element of the array .",
+      "status": "passed"
+    }
+  ]
+}

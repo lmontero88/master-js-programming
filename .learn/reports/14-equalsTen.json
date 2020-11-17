@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "function returns whether or not the given number is 10.",
+      "status": "passed"
+    },
+    {
+      "title": "Use three equals === to compare because we need exact match",
+      "status": "passed"
+    }
+  ]
+}

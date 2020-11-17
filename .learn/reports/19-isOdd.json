@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function isOdd must exist",
+      "status": "passed"
+    },
+    {
+      "title": "Function isOdd must return true or false",
+      "status": "passed"
+    },
+    {
+      "title": "function should return whether the given number is odd.",
+      "status": "passed"
+    }
+  ]
+}

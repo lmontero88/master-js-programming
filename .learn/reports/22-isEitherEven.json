@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function isEitherEven must exist",
+      "status": "passed"
+    },
+    {
+      "title": "function should return whether or not either one of the given numbers is even",
+      "status": "passed"
+    }
+  ]
+}

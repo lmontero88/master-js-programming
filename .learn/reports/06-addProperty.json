@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Your function must return an object",
+      "status": "passed"
+    },
+    {
+      "title": "function should set a new property on the given object and key with a value of true.",
+      "status": "passed"
+    },
+    {
+      "title": "fuction should return the object",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 6,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should return a string",
+      "status": "passed"
+    },
+    {
+      "title": "The person name must be inside the string",
+      "status": "passed"
+    },
+    {
+      "title": "The word \"Welcome\" must be inside the returned string when it's more than 21",
+      "status": "passed"
+    },
+    {
+      "title": "The word \"Go home\" must be inside the returned string when it' younger than 21 ",
+      "status": "passed"
+    },
+    {
+      "title": "should return Welcome, Adrian! if they are 21 or older.",
+      "status": "passed"
+    },
+    {
+      "title": "should return Go home, Adrian! if they are younger than 21.",
+      "status": "passed"
+    }
+  ]
+}

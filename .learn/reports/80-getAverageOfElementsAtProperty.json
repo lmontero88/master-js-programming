@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function getAverageOfElementsAtProperty must exist",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return the average of all the elements at the given key.",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return the average of all the elements at the given key.",
+      "status": "passed"
+    },
+    {
+      "title": "The function must return 0 if there's no property at the given key.",
+      "status": "passed"
+    }
+  ]
+}

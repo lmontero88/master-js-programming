@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function getIndexOf must exist",
+      "status": "passed"
+    },
+    {
+      "title": "The funtion must return the first position (index) of the given character in the given string.",
+      "status": "passed"
+    },
+    {
+      "title": "The funtion must return the first position (index) of the given character in the given string.",
+      "status": "passed"
+    }
+  ]
+}
